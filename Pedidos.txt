@@ -1,0 +1,43 @@
+Pedro A - Blanc -> 532 - Operaçao inicial 10845
+Pebro B - Blanc
+Maria A - Blanc
+Maria B - Ferra
+Claudia A - Blanc
+Claudia B - Ferra
+Julio A - Blanc(nao terminado)538
+Julio B - Ferra
+Mateus A - Blanc
+Mateus B - Blanc
+Caio A - Ferra
+Caio B - Ferra
+Lucas A - Ferra
+Lucas B - Blanc
+Paula A - Blanc
+Paula B - ferra
+Luiz A - Ferra
+Luiz B - Blanc
+Loredana A - Blanc
+Loredana B - Ferra
+Carlos A - Blanc
+Carlos B - Ferra
+Mauro A - Ferra
+Mauro B - Blanc
+Guilherme A - Ferra
+Guilherme B - Blanc
+Leonardo A - Blanc
+Leonardo B - Ferra
+Marcos A - Blanc
+Marcos B - Blanc
+---
+Fabio A - Ferra
+Fabio B - Blanc
+Ana A - Blanc
+Ana B - Ferra
+Fernanda A - Ferra
+Fernanda B - Blanc
+Isabela A - Ferra
+Isabela B - Blanc
+
+
+
+
